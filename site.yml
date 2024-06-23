@@ -1,0 +1,25 @@
+name: Best Spot of The World
+title: Best Spot of The World
+image: assets/img/uploads/profile.webp
+description: Explore with Best Spot of The World: Discover expert travel tips, exclusive deals, and breathtaking destinations. Start your adventure today!
+tags:
+  - kripto
+  - coin
+  - kripto para
+  - bitcoin
+  - ethereum
+show_hero: true
+menu:
+  - title: Home
+    url: /
+  - title: Destinations
+    url: /
+  - title: About us
+    url: /about
+  - title: Contact
+    url: /contact
+email: cryptocurrencynewspro@gmail.com
+# Contact Form Setting
+# See: https://formspree.io/
+formspree_form_id: formspree_form_id
+paginate: 12
