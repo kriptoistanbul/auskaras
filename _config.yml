@@ -1,8 +1,8 @@
 # Site Settings
-name: Best Spot of The World
-title: Best Spot of The World
+name: auskaras.lt
+title: auskaras.lt
 image: "/android-chrome-384x384.png"
-description: Explore with Best Spot of The World Discover expert travel tips, exclusive deals, and breathtaking destinations. Start your adventure today!
+description: Explore with auskaras.lt Discover expert travel tips, exclusive deals, and breathtaking destinations. Start your adventure today!
 tags:
   - kripto
   - coin
@@ -10,8 +10,8 @@ tags:
   - bitcoin
   - ethereum
 show_hero: true
-menu:
-  - title: Home
+Meniu:
+  - title: Pradžia
     url: /
 
 email: cryptocurrencynewspro@gmail.com

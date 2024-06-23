@@ -14,7 +14,7 @@ layout: main
     {% assign offset = 0 %}
 {% endif %}
 
-<main class="home {% if site.show_hero and paginator == nil or paginator.page == 1 %}no-padding{% endif %}" role="main">
+<main class="Pradžia {% if site.show_hero and paginator == nil or paginator.page == 1 %}no-padding{% endif %}" role="main">
     {% if site.show_hero and paginator == nil or paginator.page == 1 %}
         <!-- Hero -->
         {% assign featured = posts.first %}
@@ -34,7 +34,7 @@ layout: main
                 <div class="buttons">
                     <a href="{{ featured.url | prepend: site.baseurl }}" role="button" class="button">
                         <svg><use xlink:href="#icon-read"></use></svg>
-                        <span>{{ site.translations.button.read_now | default: "Read Now!" }}</span>
+                        <span>{{ site.translations.button.read_now | default: "Skaityk Dabar!" }}</span>
                     </a>
                 </div>
             </div>
@@ -95,7 +95,7 @@ layout: main
     </section>
     <!-- Pagination -->
     {% if site.paginate %}
-        {% include pagination-home.html %}
+        {% include pagination-Pradžia.html %}
     {% endif %}
 </main>
 

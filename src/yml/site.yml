@@ -9,8 +9,8 @@ tags:
   - theme
   - netlify
 show_hero: true
-menu:
-  - title: Home
+Meniu:
+  - title: Pradžia
     url: /
   - title: About
     url: /about

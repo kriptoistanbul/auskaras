@@ -4,18 +4,18 @@
   box-sizing: border-box;
 }
 
-body.has-push-menu,
-body.has-push-menu aside,
-body.has-push-menu .progress-bar {
+body.has-push-Meniu,
+body.has-push-Meniu aside,
+body.has-push-Meniu .progress-bar {
   transition: all 0.3s ease;
 }
 
-body.has-push-menu {
+body.has-push-Meniu {
   overflow-x: hidden;
   position: relative;
   left: 0;
 
-  &.push-menu-to-right {
+  &.push-Meniu-to-right {
     left: rem(240px);
 
     .progress-bar {

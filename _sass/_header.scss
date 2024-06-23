@@ -55,7 +55,7 @@ body {
     opacity: 0.3;
   }
 
-  .icon-menu {
+  .icon-Meniu {
     float: left;
     cursor: pointer;
     margin: rem(5px) rem(20px) rem(5px) 0;
@@ -118,7 +118,7 @@ body.light:not(.main-page) {
     background-color: rgba(255, 255, 255, 0.95);
 
     .icon-search,
-    .icon-menu {
+    .icon-Meniu {
       fill: $primaryDark;
     }
 

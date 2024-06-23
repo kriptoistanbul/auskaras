@@ -1,13 +1,13 @@
 (function( $, window, undefined ) {
-  // Menu
-  $("#menu").click(function() {
-    $("body").addClass("push-menu-to-right");
+  // Meniu
+  $("#Meniu").click(function() {
+    $("body").addClass("push-Meniu-to-right");
     $("#sidebar").addClass("open");
     $(".overlay").addClass("show");
   });
 
   $("#mask").click(function() {
-    $("body").removeClass("push-menu-to-right");
+    $("body").removeClass("push-Meniu-to-right");
     $("#sidebar").removeClass("open");
     $(".overlay").removeClass("show");
   });
@@ -66,14 +66,14 @@
 
   bs.close.on('click', close_search);
 
-  // Closing menu with ESC
+  // Closing Meniu with ESC
   document.addEventListener('keyup', function(e){
       if(e.keyCode == 27 && $('.search-overlay').length) {
           close_search();
       }
   });
   
-  if (document.getElementsByClassName('home').length >=1 ) {
+  if (document.getElementsByClassName('Pradžia').length >=1 ) {
       new AnimOnScroll( document.getElementById( 'grid' ), {
         minDuration : 0.4,
         maxDuration : 0.7,

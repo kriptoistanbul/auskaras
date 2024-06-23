@@ -28,7 +28,7 @@ pagination:
 
 <h2>Must-Visit Places in <b>Bodrum Center</b></h2>
 <h3>Bodrum Castle</h3>
-<p>At the top of the must-visit places in Bodrum is the Bodrum Castle, also known as St. Peter's Castle. Built by the Knights of St. John in the 1400s, the castle is now home to the Bodrum Underwater Archaeology Museum, featuring one of the world's oldest shipwrecks. Visitors can explore the dungeon and torture rooms in the castle. The castle can be fully explored in about 2-3 hours. Entrance fee is 20 TL, but it's free with a Museum Pass.</p>
+<p>At the top of the must-visit places in Bodrum is the Bodrum Castle, also known as St. Peter's Castle. Built by the Knights of St. John in the 1400s, the castle is now Pradžia to the Bodrum Underwater Archaeology Museum, featuring one of the world's oldest shipwrecks. Visitors can explore the dungeon and torture rooms in the castle. The castle can be fully explored in about 2-3 hours. Entrance fee is 20 TL, but it's free with a Museum Pass.</p>
 
 <h3>Bodrum Underwater Archaeology Museum</h3>
 <p>Located within the iconic Bodrum Castle, the Bodrum Underwater Archaeology Museum, established in 1964, hosts numerous underwater artifacts. The museum features Eastern Mediterranean amphorae and several significant shipwreck exhibits, including the Uluburun Shipwreck, a Bronze Age trading ship. The museum also showcases the largest collection of Islamic Glass in the world. In 1995, it received a "Special Commendation" at the European Museum of the Year contest. The museum's exhibits include amphorae, the 7th-century Byzantine Ship, glassware, the 11th-century Serçe Limanı Glass Wreck, and more. The museum is open from 9:00 AM to 7:00 PM, with free entry for individuals over 65 or under 18.</p>
@@ -85,10 +85,10 @@ pagination:
 
 <h2>Discovering <b>Bargilya</b></h2>
 <h3>Bargilya Ancient City</h3>
-<p>Bargilya Ancient City, home to a temple, an ancient theater, and numerous historical remains, was named after the mythical horse-slayer Bargylos. Visiting this ancient city offers a peaceful retreat, allowing visitors to immerse themselves in its tranquility and history.</p>
+<p>Bargilya Ancient City, Pradžia to a temple, an ancient theater, and numerous historical remains, was named after the mythical horse-slayer Bargylos. Visiting this ancient city offers a peaceful retreat, allowing visitors to immerse themselves in its tranquility and history.</p>
 
 <h3>Tuzla Bird Sanctuary</h3>
-<p>Near Bargilya Ancient City is the Tuzla Bird Sanctuary, a must-visit location in Bodrum. Home to over 100 bird species, including numerous flamingos, it is a perfect spot for birdwatching enthusiasts.</p>
+<p>Near Bargilya Ancient City is the Tuzla Bird Sanctuary, a must-visit location in Bodrum. Pradžia to over 100 bird species, including numerous flamingos, it is a perfect spot for birdwatching enthusiasts.</p>
 
 <h3>Venice Castle</h3>
 <p>The Venice Castle, offering a stunning view of the Aegean Sea, is a free-to-visit site. Located in Aspat Bay, the castle once served as a vital defense point for the region.</p>
@@ -103,7 +103,7 @@ pagination:
 <p>While lacking amenities like toilets and changing cabins, Kadıkalesi Beach in Bahçelievler neighborhood offers a serene swimming experience with its warm waters. Free sun loungers provided by the municipality add to the comfort of visitors.</p>
 
 <h3>Mazı Village and Its Bays</h3>
-<p>Mazı Village, 45 kilometers from Bodrum city center, is home to beautiful bays awaiting discovery. The local hospitality, along with a few small businesses, ensures visitors' needs are met. The area is also ideal for camping in nearby forested areas.</p>
+<p>Mazı Village, 45 kilometers from Bodrum city center, is Pradžia to beautiful bays awaiting discovery. The local hospitality, along with a few small businesses, ensures visitors' needs are met. The area is also ideal for camping in nearby forested areas.</p>
 
 <h3>Bağla Bay</h3>
 <p>Bağla Bay, located between Ortakent Yahşi and Akyarlar, offers an alternative for those seeking different sea experiences. The bay, 14 kilometers from Bodrum center, is accessible by Bodrum - Turgutreis minibuses. The bay is popular for camping and its clear waters. Its proximity to surrounding villages and Bodrum center makes it a convenient location for exploring the area.</p>
