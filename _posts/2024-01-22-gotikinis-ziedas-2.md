@@ -1,4 +1,4 @@
-—
+——
 layout: post
 title: “Kaip Apskaičiuoti Žiedo Dydis: Išsamus Vadovas”
 date: 2024-07-04 00:00:25 +0300
@@ -13,7 +13,7 @@ tags:
 permalink: “/blog/ziedo-dydis/“
 pagination:
   enabled: true
-—
+——
 
 <h1>Žiedo dydžio nustatymo svarba</h1>
 
