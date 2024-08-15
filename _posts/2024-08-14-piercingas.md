@@ -2,10 +2,14 @@
 layout: post
 title: "Kas yra Piercingas? Visas Gidas"
 date: 2024-08-14 12:00:00 +0200
-subtitle: "Išsamus gidas apie piercingus: prasmingi papuošalai kūnui"
-description: "Sužinokite viską apie piercingus – nuo jų istorijos iki modernių pritaikymų. Atraskite, kaip pasirinkti tinkamą piercingą ir kaip jį prižiūrėti."
+subtitle: Išsamus gidas apie piercingus: prasmingi papuošalai kūnui
+description: Sužinokite viską apie piercingus – nuo jų istorijos iki modernių pritaikymų. Atraskite, kaip pasirinkti tinkamą piercingą ir kaip jį prižiūrėti.
 image: /assets/img/posts-img/piercingas/piercingas-intro.webp
-tags: [piercingas, kūno menas, papuošalai, sveikata]
+tags:
+- piercingas
+- kūno menas
+- papuošalai
+- sveikata
 permalink: "/blog/piercingas-viso-gido/"
 pagination:
   enabled: true
