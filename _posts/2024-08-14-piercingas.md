@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Kas yra Piercingas? Visas Gidas"
-date: 2024-08-14 00:00:19 +0300
-subtitle: Išsamus gidas apie piercingus: prasmingi papuošalai kūnui
-description: Sužinokite viską apie piercingus – nuo jų istorijos iki modernių pritaikymų. Atraskite, kaip pasirinkti tinkamą piercingą ir kaip jį prižiūrėti.
-image: /assets/img/posts-img/piercingas/piercingas-intro.webp
+title: "Populiariausi Auskarų Pavadinimai ir Vietos"
+date: 2024-06-25 00:00:19 +0300
+subtitle: Išsamus auskarų pavadinimų ir vėrimo vietų vadovas
+description: Sužinokite apie populiariausius auskarų pavadinimus, vėrimo vietas ir priežiūros patarimus, kad galėtumėte pasirinkti tinkamiausią variantą savo stiliui.
+image: /assets/img/posts-img/auskaras/auskaru-verimas.webp
 tags:
-  - auskarai
-  - auskarų
-  - vėrimas
-  - stilius
-  - grožio patarimai
-permalink: "/blog/piercingas-viso-gido/"
+- auskarai
+- auskarų
+- vėrimas
+- stilius
+- grožio patarimai
+permalink: "/blog/auskaru-verimas-3/"
 pagination:
   enabled: true
 ---
