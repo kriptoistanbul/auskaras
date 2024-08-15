@@ -6,10 +6,11 @@ subtitle: "Išsamus gidas apie piercingus: prasmingi papuošalai kūnui"
 description: "Sužinokite viską apie piercingus – nuo jų istorijos iki modernių pritaikymų. Atraskite, kaip pasirinkti tinkamą piercingą ir kaip jį prižiūrėti."
 image: /assets/img/posts-img/piercingas/piercingas-intro.webp
 tags:
-  - piercingas
-  - kūno menas
-  - papuošalai
-  - sveikata
+  - auskarai
+  - auskarų
+  - vėrimas
+  - stilius
+  - grožio patarimai
 permalink: "/blog/piercingas-viso-gido/"
 pagination:
   enabled: true
