@@ -117,3 +117,4 @@ pagination:
 <h2>Kaip Pasirinkti Piercingą?</h2>
 <p>Renkantis piercingą, svarbu atsižvelgti į kelis svarbius aspektus. Pirmiausia, piercingas turėtų atitikti įdėjimo vietos anatomines ypatybes, tai užtikrins patogumą ne&scaron;iojant.</p>
 <p>Be to, svarbu įvertinti papuo&scaron;alo savybes. Rekomenduojama rinktis auk&scaron;tos kokybės ir sveikatai nekenksmingus medžiagų modelius. Taip net jautrios ar alergi&scaron;kos odos savininkai galės ne&scaron;ioti piercingą be diskomforto. Alergi&scaron;ki ar jautrūs asmenys turėtų vengti niklio ir plieno, pasirinkdami vietoje jų sunkiuosius metalus, tokie kaip sidabras, auksas ar titanas.</p>
+<p>Jeigu svarstote, kur geriausia atlikti vėrimą, pirmiausia perskaitykite mūsų straipsnį apie <a href='/blog/auskaru-verimas/'>populiariausias auskarų vietas</a>. O jei auskarą jau įvėrėte, susipažinkite su <a href='/blog/auskaru-prieziura/'>priežiūros rekomendacijomis</a>.</p>

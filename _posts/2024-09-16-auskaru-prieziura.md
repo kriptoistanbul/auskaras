@@ -42,3 +42,4 @@ pagination:
 
 <p>Laikydamiesi šių patarimų galėsite džiaugtis gražiais ir tvarkingais auskarais be nereikalingų rūpesčių.</p>
 
+<p>Dar tik svarstote auskarų vėrimą? Susipažinkite su <a href='/blog/auskaru-verimas/'>populiariausiomis auskarų vietomis</a> ir perskaitykite <a href='/blog/piercingas-viso-gido/'>piercingo gidą</a> prieš priimdami sprendimą.</p>

@@ -121,3 +121,5 @@ pagination:
 </ul>
 
 <p>Prieš verti auskarą, svarbu pasikonsultuoti su profesionaliu auskarų verimo specialistu ir užtikrinti, kad procedūra būtų atliekama steriliomis sąlygomis, naudojant sterilias priemones. Taip pat svarbu susipažinti su auskarų priežiūros ir gijimo procesu. Renkantis auskarų vietą, reikėtų atsižvelgti į asmeninius pageidavimus ir skausmo ribą.</p>
+
+<p>Norėdami sužinoti daugiau apie skirtingas procedūras ir papuošalų rūšis, kviečiame paskaityti mūsų <a href="/blog/piercingas-viso-gido/">išsamų piercingo gidą</a>. Baigus procedūrą pravers ir <a href="/blog/auskaru-prieziura/">auskarų priežiūros patarimai</a>, padėsiantys greičiau pasveikti.</p>

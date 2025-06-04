@@ -50,3 +50,4 @@ pagination:
 <p>Gotikinis stilius yra ne tik kasdienėje aprangoje, bet ir žvaigždžių scenoje ir raudonojo kilimo renginiuose. Žymūs roko, pankų ir metalo atlikėjai savo pasirodymuose priėmė gotikinį stilių kaip svarbų mados išraišką. Pavyzdžiui, Evanescence vokalistė Amy Lee yra žinoma gotikinio stiliaus atstovė ir scenoje dažnai renkasi originalius ir įspūdingus drabužius, atspindinčius gotikinę estetiką.</p>
 
 <p>Gotikinis stilius yra mistinę ir romantišką atmosferą atspindintis, dramatiškumą ir emocingumą pabrėžiantis įspūdingas mados judėjimas. Mados pasaulyje visada savo unikalią vietą turintis gotikinis stilius yra magiškos mados estetikos, kilusios iš istorijos, atspindys. Gotikinis mūras, dažnai matomas senovinėse struktūrose, taip pat yra svarbus šio stiliaus elementas.</p>
+<p>Norėdami sužinoti, kokie papuošalai dažniausiai siejami su šiuo stiliumi, peržiūrėkite <a href='/blog/gotikinis-ziedas/'>gotikinių papuošalų gidą</a>.</p>
