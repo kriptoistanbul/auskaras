@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gotikinės subkultūros atstovų išvaizda ir papuošalų įvairovė"
-date: 2024-06-25 00:00:25 +0300
+date: 2025-06-04 00:00:00 +0300
 author: austeja
 subtitle: Kaip atskirti gotikinius papuošalus nuo kitų juvelyrikos tendencijų
 description: Panardinkite į nuostabų gotikinių žiedų, pakabukų, karolių ir apyrankių pasaulį, atraskite skirtumus ir panašumus tarp įvairių gotikinių stilių bei sužinokite, kaip atskirti gotikinius papuošalus nuo kitų juvelyrikos tendencijų.
@@ -50,3 +50,10 @@ pagination:
 
 <p>Yra daug daugiau gotikinių stilių, tokių kaip vakarietiška, steampunk, lolita, Viktorijos gotika. Kaip suprantate, jų mados pojūtis ir papuošalų pasirinkimai yra skirtingi ir unikalūs.</p>
 <p>Norėdami sužinoti daugiau apie šio stiliaus ištakas, perskaitykite mūsų įrašą apie <a href='/blog/gotikinis-stilius/'>gotikinės kultūros istoriją</a>.</p>
+
+<h2>Dažniausiai užduodami klausimai</h2>
+<ul>
+    <li><strong>Kodėl gotai dažnai renkasi sidabrą?</strong> Sidabras siejamas su mėnuliu ir gotikine estetika.</li>
+    <li><strong>Kokie simboliai papuošaluose populiariausi?</strong> Dažniausiai sutinkamos kaukolės, kryžiai ir šikšnosparniai.</li>
+    <li><strong>Ar gotikiniai papuošalai tinkami kasdienai?</strong> Taip, jei derinate juos prie savo stiliaus ir jaučiatės patogiai.</li>
+</ul>
