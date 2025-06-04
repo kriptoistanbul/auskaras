@@ -2,6 +2,7 @@
 layout: post
 title: "Populiariausi Auskarų Pavadinimai ir Vietos"
 date: 2024-06-24 00:00:19 +0300
+author: austeja
 subtitle: Išsamus auskarų pavadinimų ir vėrimo vietų vadovas
 description: Sužinokite apie populiariausius auskarų pavadinimus, vėrimo vietas ir priežiūros patarimus, kad galėtumėte pasirinkti tinkamiausią variantą savo stiliui.
 image: /assets/img/posts-img/auskaras/auskaru-verimas.webp

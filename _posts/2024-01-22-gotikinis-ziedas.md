@@ -2,6 +2,7 @@
 layout: post
 title: "Gotikinės subkultūros atstovų išvaizda ir papuošalų įvairovė"
 date: 2024-06-25 00:00:25 +0300
+author: austeja
 subtitle: Kaip atskirti gotikinius papuošalus nuo kitų juvelyrikos tendencijų
 description: Panardinkite į nuostabų gotikinių žiedų, pakabukų, karolių ir apyrankių pasaulį, atraskite skirtumus ir panašumus tarp įvairių gotikinių stilių bei sužinokite, kaip atskirti gotikinius papuošalus nuo kitų juvelyrikos tendencijų.
 image: /assets/img/posts-img/gotika/gotikinis-ziedas.webp
