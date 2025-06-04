@@ -2,6 +2,7 @@
 layout: post
 title: "Auskarų priežiūros patarimai"
 date: 2024-09-16 00:00:00 +0300
+author: austeja
 subtitle: Kaip tinkamai rūpintis auskarais po vėrimo
 description: Praktiniai patarimai, kaip išlaikyti auskarus tvarkingus ir sveikus po procedūros.
 image: /assets/img/posts-img/auskaras/auskaru-prieziura.svg

@@ -2,6 +2,7 @@
 layout: post
 title: "Gotikinės kultūros istorija ir jos poveikis madai"
 date: 2024-06-25 00:00:19 +0300
+author: austeja
 subtitle: Gotikinės kultūros kilmė ir jos atspindžiai šiuolaikinėje madoje
 description: Tyrinėjame gotikinės kultūros istoriją nuo XII amžiaus iki šiandienos, atskleidžiant gotikinio stiliaus įtaką architektūrai, menui ir madai.
 image: /assets/img/posts-img/gotika/gotikinis-stilius.webp
