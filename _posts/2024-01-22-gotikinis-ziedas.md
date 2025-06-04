@@ -48,3 +48,4 @@ pagination:
 <p>Fetišo gotai renkasi provokuojančius latekso, vinilo, PU, odos ir tinklo drabužius, papildytus atitinkamais papuošalais. Galite matyti šiuos aksesuarus, kaip pavyzdžiui, diržus, korseto diržus, rankogalių apyrankes, veido kaukes, apykakles, ilgus grandininius karolius ir pan. Įdomu tai, kad šiandien mes asocijuojame fetišą tik su seksualine veikla, tačiau originali reikšmė nurodė į kažką magiško, švento ar raganavimo.</p>
 
 <p>Yra daug daugiau gotikinių stilių, tokių kaip vakarietiška, steampunk, lolita, Viktorijos gotika. Kaip suprantate, jų mados pojūtis ir papuošalų pasirinkimai yra skirtingi ir unikalūs.</p>
+<p>Norėdami sužinoti daugiau apie šio stiliaus ištakas, perskaitykite mūsų įrašą apie <a href='/blog/gotikinis-stilius/'>gotikinės kultūros istoriją</a>.</p>
