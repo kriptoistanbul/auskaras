@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gotikinės kultūros istorija ir jos poveikis madai"
-date: 2024-06-25 00:00:19 +0300
+date: 2025-06-04 00:00:00 +0300
 author: austeja
 subtitle: Gotikinės kultūros kilmė ir jos atspindžiai šiuolaikinėje madoje
 description: Tyrinėjame gotikinės kultūros istoriją nuo XII amžiaus iki šiandienos, atskleidžiant gotikinio stiliaus įtaką architektūrai, menui ir madai.
@@ -52,3 +52,10 @@ pagination:
 
 <p>Gotikinis stilius yra mistinę ir romantišką atmosferą atspindintis, dramatiškumą ir emocingumą pabrėžiantis įspūdingas mados judėjimas. Mados pasaulyje visada savo unikalią vietą turintis gotikinis stilius yra magiškos mados estetikos, kilusios iš istorijos, atspindys. Gotikinis mūras, dažnai matomas senovinėse struktūrose, taip pat yra svarbus šio stiliaus elementas.</p>
 <p>Norėdami sužinoti, kokie papuošalai dažniausiai siejami su šiuo stiliumi, peržiūrėkite <a href='/blog/gotikinis-ziedas/'>gotikinių papuošalų gidą</a>.</p>
+
+<h2>Dažniausiai užduodami klausimai</h2>
+<ul>
+    <li><strong>Kas yra gotikinė kultūra?</strong> Tai menų ir mados judėjimas, kilęs viduramžių Europoje.</li>
+    <li><strong>Kokias spalvas dažniausiai renkasi gotikai?</strong> Dominuoja juoda, kartais derinama su raudona ar purpurine.</li>
+    <li><strong>Kur rasti daugiau informacijos?</strong> Plačiau skaitykite mūsų tinklaraščio įrašuose apie gotikinį stilių.</li>
+</ul>

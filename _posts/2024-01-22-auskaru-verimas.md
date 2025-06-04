@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Populiariausi Auskarų Pavadinimai ir Vietos"
-date: 2024-06-24 00:00:19 +0300
+date: 2025-06-04 00:00:00 +0300
 author: austeja
 subtitle: Išsamus auskarų pavadinimų ir vėrimo vietų vadovas
 description: Sužinokite apie populiariausius auskarų pavadinimus, vėrimo vietas ir priežiūros patarimus, kad galėtumėte pasirinkti tinkamiausią variantą savo stiliui.
@@ -124,3 +124,10 @@ pagination:
 <p>Prieš verti auskarą, svarbu pasikonsultuoti su profesionaliu auskarų verimo specialistu ir užtikrinti, kad procedūra būtų atliekama steriliomis sąlygomis, naudojant sterilias priemones. Taip pat svarbu susipažinti su auskarų priežiūros ir gijimo procesu. Renkantis auskarų vietą, reikėtų atsižvelgti į asmeninius pageidavimus ir skausmo ribą.</p>
 
 <p>Norėdami sužinoti daugiau apie skirtingas procedūras ir papuošalų rūšis, kviečiame paskaityti mūsų <a href="/blog/piercingas-viso-gido/">išsamų piercingo gidą</a>. Baigus procedūrą pravers ir <a href="/blog/auskaru-prieziura/">auskarų priežiūros patarimai</a>, padėsiantys greičiau pasveikti.</p>
+
+<h2>Dažniausiai užduodami klausimai</h2>
+<ul>
+    <li><strong>Kiek laiko gyja auskarai?</strong> Priklausomai nuo vietos, gijimas gali užtrukti nuo kelių savaičių iki kelių mėnesių.</li>
+    <li><strong>Ar auskarų vėrimas skausmingas?</strong> Skausmas trumpalaikis ir dažniausiai toleruojamas.</li>
+    <li><strong>Kaip išvengti infekcijos?</strong> Laikykitės specialistų nurodymų ir reguliariai valykite pradurtą vietą.</li>
+</ul>

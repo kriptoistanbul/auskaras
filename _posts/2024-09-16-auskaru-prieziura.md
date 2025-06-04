@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Auskarų priežiūros patarimai"
-date: 2024-09-16 00:00:00 +0300
+date: 2025-06-04 00:00:00 +0300
 author: austeja
 subtitle: Kaip tinkamai rūpintis auskarais po vėrimo
 description: Praktiniai patarimai, kaip išlaikyti auskarus tvarkingus ir sveikus po procedūros.
@@ -44,3 +44,10 @@ pagination:
 <p>Laikydamiesi šių patarimų galėsite džiaugtis gražiais ir tvarkingais auskarais be nereikalingų rūpesčių.</p>
 
 <p>Dar tik svarstote auskarų vėrimą? Susipažinkite su <a href='/blog/auskaru-verimas/'>populiariausiomis auskarų vietomis</a> ir perskaitykite <a href='/blog/piercingas-viso-gido/'>piercingo gidą</a> prieš priimdami sprendimą.</p>
+
+<h2>Dažniausiai užduodami klausimai</h2>
+<ul>
+    <li><strong>Kada galima keisti auskarą?</strong> Paprastai reikėtų palaukti bent kelias savaites, kol pradurtos vietos sugis.</li>
+    <li><strong>Kaip tinkamai valyti auskarą?</strong> Naudokite dezinfekuojantį skystį ir švarias servetėles.</li>
+    <li><strong>Kada kreiptis į specialistą?</strong> Jei pastebite stiprų paraudimą ar skausmą, nedelsdami pasikonsultuokite.</li>
+</ul>
