@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Piercingo psichologija ir socialinė reikšmė"
-date: 2025-06-20 00:00:00 +0300
+date: 2025-06-04 00:00:00 +0300
 author: austeja
 subtitle: Kaip kūno papuošalai veikia mūsų savęs suvokimą ir visuomenės požiūrį
 description: Sužinokite, kodėl žmonės pasirenka piercingus, kokią emocinę bei socialinę įtaką jie daro ir kaip prisidėti prie teigiamos saviraiškos.
