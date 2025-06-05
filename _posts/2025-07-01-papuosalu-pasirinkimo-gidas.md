@@ -4,7 +4,7 @@ title: "Kaip išsirinkti papuošalus dovanoms: išsamus gidas"
 date: 2025-07-01 00:00:00 +0300
 author: austeja
 subtitle: Praktiniai patarimai, kaip pasirinkti juvelyriką įvairioms progoms
-description: SEO optimizuotas straipsnis apie papuošalų pasirinkimą skirtingoms situacijoms ir gavėjams
+description: Papuošalai – tai ne tik gražus aksesuaras, bet ir reikšminga dovana, kuri gali džiuginti daugelį metų.
 image: /assets/img/posts-img/auskaras/ring-size-guide.jpeg
 tags:
   - papuošalai
