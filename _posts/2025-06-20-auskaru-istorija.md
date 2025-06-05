@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Auskarų istorija: nuo senovės iki šiandien"
-date: 2025-06-20 00:00:00 +0300
+date: 2025-06-04 00:00:00 +0300
 author: austeja
 subtitle: Išsamus auskarų istorijos ir mados gidas
 description: Atraskite, kaip auskarai kito per amžius, kokie jų stiliai populiarūs šiandien ir kaip pasirinkti jums tinkamą variantą.
