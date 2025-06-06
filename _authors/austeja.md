@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /android-chrome-384x384.png
+photo: /assets/img/Austeja.webp
 name: austeja
 display_name: Austėja Kentrauskaite
 position: Papuošalų ekspertė
